@@ -111,13 +111,15 @@
 <body>
 
     <div id="page1" class="page active">
-        <div class="big-symbol">🪔</div>
+        <div class="big-symbol"><img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/296f6cca-bbe3-4f98-b3cd-cbf59364b2b4" />
+</div>
         <div class="telugu-text">విశ్వావసు నామ సంవత్సర శుభాకాంక్షలు</div>
         <button onclick="showPage('page2')">Enter Celebrations</button>
     </div>
 
     <div id="page2" class="page">
-        <div class="big-symbol" style="position: absolute; top: 20px;">🌸</div>
+        <div class="big-symbol" style="position: absolute; top: 20px;"><img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/17946fa4-fa67-4c66-b06f-c2c5ee2f97f1" />
+</div>
         <div class="bird">🐦‍⬛</div>
         <div class="temple">🛕</div>
         <div class="telugu-text">ఉగాది శుభాకాంక్షలు!</div>
@@ -127,7 +129,8 @@
     <div id="page3" class="page">
         <h2>Click the Wheel for Your Blessing</h2>
         <div class="horoscope-wheel" onclick="revealWish()">
-            ♈
+            <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/ad96c3b2-7660-45e4-b9a8-18f2dfd38c61" />
+
         </div>
         <div id="finalWish" class="wish-popup">
             2026 ఉగాది మీకు సకల శుభాలను చేకూర్చాలని కోరుకుంటున్నాము!
